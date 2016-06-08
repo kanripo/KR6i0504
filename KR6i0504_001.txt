@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:09.699557
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:47
 #+TITLE: 佛說進學經
 #+PROPERTY: CBETA_ID T17n0798
 #+PROPERTY: ID KR6i0504
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 798
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0504_T_000-0744b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0504_T_001-0744b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.798¶
-
- 《佛說進學經》¶
+No. 798¶
+《佛說進學經》¶
 ¶
 宋居士沮渠京聲譯¶
 
@@ -39,9 +38,9 @@ No.798¶
 　如是正業，
 　明士所習，¶
 　聖見已具，
-　定至無為。」
+　定至無為。」」
 #+END_VERSE
-」¶
+¶
 
 佛告比丘：「復有二法，若在閑宴，或處大眾，¶
 心行莫懈：一者靜寂，賢聖默定；二者博學，講¶
